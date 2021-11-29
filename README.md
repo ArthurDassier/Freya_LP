@@ -10,8 +10,11 @@ Freya is a community driven platform offering training - certified by profession
 ## Team
 
 Amelie :fr: background : PE Investment
+
 Arthur :fr: background : Computer Science
+
 Julia :de: background : Strategy Consulting
+
 Louise :fr: background : Design
 
 ## About
