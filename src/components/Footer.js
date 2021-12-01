@@ -30,7 +30,10 @@ function Footer() {
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
               FREYA
-              {/* <i class='fab fa-typo3' /> */}
+              <img class='img-schools' src='images/ESCP.png' alt='what?'/>
+              <img class='img-schools' src='images/EPITECH.png' alt='what?'/>
+              <img class='img-schools' src='images/STRATE.png' alt='what?'/>
+              <img class='img-schools' src='images/JBSI.png' alt='what?'/>
             </Link>
           </div>
           <small class='website-rights'>FREYA © 2020</small>
