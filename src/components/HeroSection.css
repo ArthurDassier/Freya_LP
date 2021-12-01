@@ -1,9 +1,9 @@
-video {
+.video-container {
   object-fit: cover;
   width: 100%;
   height: 100%;
-  position: fixed;
-  z-index: -1;
+  /* position: fixed;
+  z-index: -1; */
 }
 
 .hero-container {

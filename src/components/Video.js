@@ -3,13 +3,11 @@ import './Video.css';
 
 function Video() {
   return (
-    <>
-      <h1>Our video</h1>
-      <div className='video'>
-          <video src='videos/baby.mp4' autoPlay loop muted />
-      </div>
-      <h1>Only $300 / children !</h1>
-    </>
+    <div className='hero-container2'>
+      <video className='video-container2' src='videos/baby2.mp4' autoPlay loop muted />
+      <h1>FREYA</h1>
+      <p>Babies don't come with a manual but this is pretty close!</p>
+    </div>
   );
 }
 
