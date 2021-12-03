@@ -1,11 +1,14 @@
 import React from 'react';
 import '../../App.css';
+import Video from '../Video';
+import HeroSection from '../HeroSection';
 import Footer from '../Footer';
 
 export default function Mission() {
   return (
     <>
-      <h1 className='mission'>MISSION</h1>
+      <HeroSection />
+      <Video />
       <Footer />
     </>
   );
