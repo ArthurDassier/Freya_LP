@@ -7,7 +7,7 @@ import Footer from '../Footer';
 export default function Team() {
   return (
     <>
-      <HeroSection />
+      {/* <HeroSection /> */}
       <TeamCards />
       <Footer />
     </>

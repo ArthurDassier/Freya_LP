@@ -9,20 +9,20 @@ function CardsQuotes() {
         <div className='cards_quotes__wrapper'>
           <ul className='cards_quotes__items'>
             <CardItemQuotes
-              src='images/baby1.jpg'
-              text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium elit nec mi porttitor porta. In ut aliquam lectus. Curabitur rhoncus vitae ante nec posuere.'
+              src='images/star-review.png'
+              text='I really enjoyed the services of Freya!'
               label='Unknown1'
               path='/team'
             />
             <CardItemQuotes
-              src='images/baby2.jpg'
-              text='Vivamus consequat eros leo. Proin tempor sodales accumsan. Quisque dapibus placerat justo eu fringilla. Integer posuere leo at aliquam vehicula. Donec magna dui, eleifend quis vehicula nec, semper non elit.'
+              src='images/star-review.png'
+              text='Freya was better than any teacher I had'
               label='Unknown2'
               path='/team'
             />
             <CardItemQuotes
-              src='images/baby3.jpg'
-              text='Vivamus eu dui et arcu sollicitudin rutrum sed ac risus. Morbi scelerisque faucibus nulla, nec vulputate augue vehicula volutpat. Proin volutpat vitae elit ullamcorper accumsan'
+              src='images/star-review.png'
+              text='I love how interactive the content was !'
               label='Unknown2'
               path='/team'
             />

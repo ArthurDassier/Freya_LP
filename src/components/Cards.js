@@ -11,13 +11,17 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/baby1.jpg'
-              text='We have an academy for you'
+              text='Have access to a mixed format content delivered by certified professionals.
+              Short format of less than <15 min.
+              Regular quizzes to test their knowledge.
+              Certificate delivery at the end of a training'
               label='Academy'
               path='/team'
             />
             <CardItem
               src='images/baby2.jpg'
-              text='We have a community for you'
+              text='Reunite parents so they can share their experience.
+              Interacts with professionals'
               label='Community'
               path='/team'
             />

@@ -7,7 +7,7 @@ import Footer from '../Footer';
 export default function Mission() {
   return (
     <>
-      <HeroSection />
+      {/* <HeroSection /> */}
       <Video />
       <Footer />
     </>
