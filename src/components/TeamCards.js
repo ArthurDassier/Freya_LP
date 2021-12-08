@@ -1,6 +1,6 @@
 import React from 'react';
 import './TeamCards.css';
-import CardItem from './CardItem';
+import TeamCardItem from './TeamCardsItem';
 
 function TeamCards() {
   return (
@@ -9,26 +9,26 @@ function TeamCards() {
       <div className='team_cards__container'>
         <div className='team_cards__wrapper'>
           <ul className='team_cards__items'>
-            <CardItem
-              src='images/team/Amelie.jpg'
+            <TeamCardItem
+              src='images/team/Amelie.jpeg'
               text='I am from France'
               label='ESCP'
               path='/team'
             />
-            <CardItem
-              src='images/team/Arthur.jpg'
+            <TeamCardItem
+              src='images/team/Arthur.png'
               text='I programmed the Landing Page'
               label='Epitech'
               path='/team'
             />
-            <CardItem
+            <TeamCardItem
               src='images/team/Julia.jpg'
               text='I am from Bavaria'
               label='ESCP'
               path='/team'
             />
-            <CardItem
-              src='images/team/Louise.jpg'
+            <TeamCardItem
+              src='images/team/Louise.png'
               text='I am a designer'
               label='Strate'
               path='/team'

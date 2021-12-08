@@ -10,7 +10,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/baby1.jpg'
+              src='images/academy.png'
               text='Have access to a mixed format content delivered by certified professionals.
               Short format of less than <15 min.
               Regular quizzes to test their knowledge.
@@ -19,22 +19,27 @@ function Cards() {
               path='/team'
             />
             <CardItem
-              src='images/baby2.jpg'
+              src='images/community.png'
               text='Reunite parents so they can share their experience.
               Interacts with professionals'
               label='Community'
               path='/team'
             />
             <CardItem
-              src='images/baby3.jpg'
+              src='images/contacts.png'
               text='We have a location for you'
               label='Location'
+              path='/team'
+            />
+            <CardItem
+              src='images/profile.png'
+              text='We have a location for you'
+              label='Profile'
               path='/team'
             />
           </ul>
         </div>
       </div>
-      <h1>Only $300 / children !</h1>
     </div>
   );
 }

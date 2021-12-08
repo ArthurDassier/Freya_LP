@@ -12,7 +12,7 @@ function Home() {
       <HeroSection />
       <Cards />
       {/* <Video /> */}
-      <CardsQuotes />
+      {/* <CardsQuotes /> */}
       <Footer />
     </>
   );
