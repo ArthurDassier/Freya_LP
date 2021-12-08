@@ -1,9 +1,11 @@
 .video-container {
-  object-fit: cover;
+  object-fit: scale-down;
+  top: -1%;
   width: 100%;
   height: 100%;
   position: fixed;
   z-index: -1;
+  background: #ede6d3;
 }
 
 .hero-container {
@@ -14,19 +16,19 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
   object-fit: contain;
 }
 
 .hero-container > h1 {
-  color: #fff;
+  color: #ede6d3;
   font-size: 100px;
   margin-top: -175px;
 }
 
 .hero-container > p {
   margin-top: 8px;
-  color: #fff;
+  color: #ede6d3;
   font-size: 32px;
   font-family: 'Poppins', Arial, sans-serif;
 }

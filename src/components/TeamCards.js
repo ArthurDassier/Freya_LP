@@ -10,27 +10,27 @@ function TeamCards() {
         <div className='team_cards__wrapper'>
           <ul className='team_cards__items'>
             <TeamCardItem
-              src='images/team/Amelie.jpeg'
-              text='I am from France'
-              label='ESCP'
+              src='images/team/Amelie.png'
+              text='<< I am from France >>'
+              label='Amélie'
               path='/team'
             />
             <TeamCardItem
               src='images/team/Arthur.png'
-              text='I programmed the Landing Page'
-              label='Epitech'
+              text='<< I programmed the Landing Page >>'
+              label='Arthur'
               path='/team'
             />
             <TeamCardItem
-              src='images/team/Julia.jpg'
-              text='I am from Bavaria'
-              label='ESCP'
+              src='images/team/Julia.png'
+              text='<< I am from Bavaria >>'
+              label='Julia'
               path='/team'
             />
             <TeamCardItem
               src='images/team/Louise.png'
-              text='I am a designer'
-              label='Strate'
+              text='<< I am a designer >>'
+              label='Louise'
               path='/team'
             />
           </ul>

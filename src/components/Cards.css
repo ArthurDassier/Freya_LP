@@ -63,14 +63,16 @@ h1 {
   content: attr(data-category);
   position: absolute;
   bottom: 0;
-  margin-left: 10px;
+  margin-left: 125px;
   padding: 6px 8px;
   max-width: calc((100%) - 60px);
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 700;
   color: #fff;
   background-color: #00A19D;
   box-sizing: border-box;
+  border-radius: 10px;
+  font-family: 'Roxborough'
 }
 
 .cards__item__img {
